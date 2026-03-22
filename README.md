@@ -1,4 +1,3 @@
-![Preview](https://via.placeholder.com/800x400?text=CEH+Exam+Simulator)
 # CEH v13 Practice Exam Simulator
 
 A realistic **CEH v13 (2026)** practice exam simulator with timer, scoring system, and domain-based performance analysis.
